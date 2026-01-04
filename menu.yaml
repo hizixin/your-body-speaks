@@ -1,0 +1,27 @@
+carbs:
+  cereal:
+    - choose 1:
+      - mixed berry cereal 5/6 cup
+      - corn flakes cereal 5/6 cup
+  brown rice:
+    upper: 1 cup
+    lower: 1.25 cup
+    rest: 0.75 cup
+
+protein:
+  - 3 eggs (1 yolk)
+  - 4 oz 90/10 ground beef
+  - 1 cod/haddock/tilapia fillet
+  - 7-8 black tiger shrimps
+
+fat:
+  - avocado oil spray
+
+dairy:
+  - organic valley 100% grass fed fat free milk
+
+veggie:
+  - baby bok choy 2 heads
+  - baby broccoli 1 bunch
+  - baby spinach 5 oz
+  - choi sum 1 bunch
