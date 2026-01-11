@@ -1,6 +1,7 @@
 ## protein
 - 3 eggs (1 yolk)
 - 4 oz 90/10 ground beef
+  - or 4 oz realgood lightly breaded chicken breast
 - 1 cod/haddock/tilapia fillet
 - 7-8 black tiger shrimps
 
@@ -26,3 +27,4 @@
 - baby broccoli 1 bunch
 - baby spinach 5 oz
 - choi sum 1 bunch
+- nappa cabbage
