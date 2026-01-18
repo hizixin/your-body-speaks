@@ -1,5 +1,5 @@
 ## protein
-- 3 eggs (1 yolk)
+- 1 egg (dinner)
 - 4 oz 90/10 ground beef
   - or 4 oz realgood lightly breaded chicken breast
 - 1 cod/haddock/tilapia fillet
@@ -7,6 +7,7 @@
 
 ## dairy
 - organic valley 100% grass fed fat free milk
+- siggi’s plain nonfat skyr (11pm)
 
 ## carbs
 
@@ -20,11 +21,17 @@
 - rest: 0.75 cup
 
 ## fat
+- 10 g roasted & lightly salted mixed nuts
 - avocado oil spray
 
 ## veggie
+goal: <= 600 g
 - baby bok choy 2 heads
 - baby broccoli 1 bunch
 - baby spinach 5 oz
 - choi sum 1 bunch
 - nappa cabbage
+- rainbow chard 1 bunch
+
+## fruit
+- 85 g sunset grape/cherry tomatoes
