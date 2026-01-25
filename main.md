@@ -1,27 +1,29 @@
 ## protein
-- 1 egg (dinner)
-- 4 oz 90/10 ground beef
-  - or 4 oz realgood lightly breaded chicken breast
+- 1 egg
+
+choose 2:
+- 100 g top sirloin steak trimmed
+- 100 g realgood lightly breaded chicken breast
 - 1 cod/haddock/tilapia fillet
-- 7-8 black tiger shrimps
+- 5 black tiger shrimps
 
 ## dairy
 - organic valley 100% grass fed fat free milk
 - siggi’s plain nonfat skyr (11pm)
 
 ## carbs
-
-### cereal
+cereal:
 - mixed berry cereal 5/6 cup
   - or corn flakes cereal 5/6 cup
 
-### brown rice (dry)
-- upper: 1 cup
-- lower: 1.25 cup
-- rest: 0.75 cup
+brown rice (dry):
+- upper: 135 g
+- lower: 180 g
+- rest: 90 g
 
 ## fat
-- 10 g roasted & lightly salted mixed nuts
+- half medium avocado
+  - or 20 g roasted & lightly salted mixed nuts
 - avocado oil spray
 
 ## veggie
